@@ -2,7 +2,7 @@
 
 ## Description
 
-This Python script implements a basic keylogger that captures keystrokes and saves them to a log file. It includes additional features such as timestamps, encryption of the log file, and a simple Tkinter-based user interface for control.
+This Python script implements a keylogger that captures keystrokes and saves them to a log file. It includes additional features such as timestamps, encryption of the log file, and a simple Tkinter-based user interface for control.
 
 ## Features
 
